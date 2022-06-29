@@ -1,0 +1,10 @@
+
+.order-details .row-design:first-of-type{
+    border-bottom: none;
+    border-radius: 4px 4px 0 0;
+}
+
+.order-details .row-design:last-of-type{
+    border-top: none;
+    border-radius: 0 0 4px 4px;
+}
